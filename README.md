@@ -52,7 +52,7 @@ By leveraging advanced analytics and visualization techniques.
 
 ## Project Outcome 🎯
 
-The project delivers actionable recommendations for optimizing sales strategies, improving performance, and identifying trends. The use of Power BI ensures interactive visualizations and insightful metrics for informed decision-making.
+The project delivers actionable recommendations for optimizing sales strategies, improving performance, and identifying trends.
 
 
 ## Project Dashboard
