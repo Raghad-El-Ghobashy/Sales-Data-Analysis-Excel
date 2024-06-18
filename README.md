@@ -23,7 +23,7 @@ By leveraging advanced analytics and visualization techniques.
 
 📦 Total Products: 3,000
 
-📈 Total Sales: $160,073.90
+📈 Total Sales: $160,073.913
 
 
 #### Creating Dynamic Dashboard 
